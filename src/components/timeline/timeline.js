@@ -6,15 +6,15 @@ const Timeline = (props) => {
 
   return (
     <StyledTimeline>
-      {playlistsNames.map((playlistName) => {
+      {playlistsNames.map((playlistName, index) => {
         const videos = props.playlists[playlistName]
         return (
-          <section>
-            <h2>{playlistName}</h2>
+          <section key={index}>
+            <h2 >{playlistName}</h2>
             <div>
-              {videos.map((video) => {
+              {videos.map((video, index) => {
                 return (
-                  <a href={video.url}>
+                  <a key={index} href={video.url}>
                     <img src={video.thumb} />
                     <span>
                       {video.title}
