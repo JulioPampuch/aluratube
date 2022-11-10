@@ -1,5 +1,5 @@
 import { Fragment } from "react"
-import Menu from "../src/components/menu/Menu"
+import Menu from "../src/components/menu/menu"
 import Header from "../src/components/header/header"
 import Timeline from "../src/components/timeline/timeline"
 import config from "../config.json"
