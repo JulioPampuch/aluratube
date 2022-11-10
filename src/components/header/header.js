@@ -9,6 +9,7 @@ const StyledHeader = styled.div`
   }
   .userInfo {
     margin-top: 70px;
+    padding: 0 35px 0 35px;
     display: flex;
     align-items: center;
     width: 100%;
