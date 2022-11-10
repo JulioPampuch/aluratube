@@ -2,6 +2,7 @@
   "name": "Julio Pampuch",
   "job": "Dev front-end",
   "github": "JulioPampuch",
+  "bannerUrl": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
   "playlists": {
     "jogos": [
       {
@@ -102,5 +103,17 @@
         "thumb": "https://i.ytimg.com/vi/iJbPq1JlHZI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2XyD15Q8TmrodJoQaQ87Jod88XA"
       }
     ]
-  }
+  },
+  "favorites": [
+    {
+      "name": "Alura",
+      "channelUrl": "https://www.youtube.com/c/Alura",
+      "img": "https://yt3.ggpht.com/xqhIoXspeX7eqouJvNHl1xqpv9213Pl26ENZbuouXxO2RlDadjsveNXfgnj8GTUk7thFYUkVRg=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "OneBitCode",
+      "channelUrl": "https://www.youtube.com/c/OneBitCode",
+      "img": "https://yt3.ggpht.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s88-c-k-c0x00ffffff-no-rj"
+    }
+  ]
 }

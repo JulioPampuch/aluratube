@@ -1,9 +1,9 @@
-import { Fragment } from "react"
+import config from "../config.json"
 import Menu from "../src/components/menu/menu"
 import Header from "../src/components/header/header"
 import Timeline from "../src/components/timeline/timeline"
-import config from "../config.json"
-import { CSSReset } from "../src/components/CSSReset"
+import Favs from "../src/components/favorites/favorites"
+import { CSSReset } from "../src/components/CSSReset" 
 
 const HomePage = () => {
   return (
@@ -17,6 +17,7 @@ const HomePage = () => {
       <Menu />
       <Header />
       <Timeline playlists={config.playlists} />
+      <Favs favorites={config.favorites} />
     </div>
   )
 }
