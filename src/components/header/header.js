@@ -3,11 +3,7 @@ import styled from "styled-components"
 import { Fragment } from "react"
 
 const StyledHeader = styled.div`
-  .bannerImg {
-    width: 100%;
-    height: 280px; 
-    object-fit: cover;
-  }
+
 
   .userInfo {
     margin-top: 20px;
@@ -25,12 +21,19 @@ const StyledHeader = styled.div`
   }
 `
 
-console.log(config.playlists)
+const StyledBanner = styled.div`
+
+    background-image: url(${config.bannerUrl});
+    background-size: cover;
+
+    width: 100%;
+    height: 250px; 
+`
 
 const Header = () => {
   return (
     <StyledHeader>
-      <img className="bannerImg" src={config.bannerUrl} />
+      <StyledBanner />
       <section>
         <div className="userInfo">
           <img className="userImg" src={`https://github.com/${config.github}.png`} />

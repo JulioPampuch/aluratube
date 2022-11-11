@@ -8,9 +8,9 @@ const Favs = (props) => {
       <section>
         <h3>Favoritos Aluratube</h3>
         <div className="favs">
-          {favorites.map((favorite) => {
+          {favorites.map((favorite, index) => {
             return (
-              <div>
+              <div key={index}>
                 <a className="fav" href={favorite.channelUrl}>
                   <h4>{favorite.name}</h4>
                   <img className="favsImg" src={favorite.img} />
