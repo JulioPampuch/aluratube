@@ -4,10 +4,10 @@ import { Fragment } from "react"
 
 const StyledHeader = styled.div`
 
-
+  background: ${({ theme }) => theme.backgroundLevel1};
+  
   .userInfo {
-    margin-top: 20px;
-    padding: 0 35px 0 35px;
+    padding: 15px 35px 15px 35px;
     display: flex;
     align-items: center;
     width: 100%;
