@@ -3,8 +3,8 @@ import { useState } from "react"
 import config from "../config.json"
 import Menu from "../src/components/Menu/menu"
 import Header from "../src/components/Header/index"
-import Timeline from "../src/components/Timeline/timeline"
-import Favs from "../src/components/Favorites/index"
+import Timeline from "../src/components/Timelinee/timeline"
+import Favs from "../src/components/Favoritess/index"
 import { VideoService } from "../src/services/videoService"
 
 
