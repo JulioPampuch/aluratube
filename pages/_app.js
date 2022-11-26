@@ -1,9 +1,7 @@
 import React from "react";
 import { ThemeProvider } from "styled-components"
 import { CSSReset } from "../src/components/CSSReset"
-import ColorModeProvider from "../src/components/Menu/colorMode";
-import { ColorModeContext } from "../src/components/Menu/colorMode";
-
+import ColorModeProvider, { ColorModeContext } from "../src/components/Menu/colorMode.js";
 import RegisterVideo from "../src/components/RegisterVideo";
 
 const theme = {
