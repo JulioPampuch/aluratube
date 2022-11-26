@@ -1,8 +1,8 @@
 import React, { useState } from "react"
 
 export const ColorModeContext = React.createContext({
-  // mode: "",
-  // setMode: () => {alert("A")}
+  mode: "",
+  setMode: () => {alert("")}
 })
 
 const ColorModeProvider = (props) => {

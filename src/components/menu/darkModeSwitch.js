@@ -38,13 +38,13 @@ const StyledSwitch = styled.div`
 
 export default function DarkModeSwitch() {
   const contexto = React.useContext(ColorModeContext)
-
+  
   return (
     <StyledSwitch>
       <input id="darkmode" type="checkbox" onChange={() => {
-        if(contexto.mode === "light") {
+        if (contexto.mode === "light") {
           contexto.setMode("dark")
-        } else if(contexto.mode === "dark") {
+        } else if (contexto.mode === "dark") {
           contexto.setMode("light")
         }
       }} />
