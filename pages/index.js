@@ -1,10 +1,10 @@
 import React, { useEffect } from "react"
 import { useState } from "react"
 import config from "../config.json"
-import Menu from "../src/components/menu/menu"
+import Menu from "../src/components/Menu/menu"
 import Header from "../src/components/Header/index"
-import Timeline from "../src/components/timeline/timeline"
-import Favs from "../src/components/favorites/index"
+import Timeline from "../src/components/Timeline/timeline"
+import Favs from "../src/components/Favorites/index"
 import { VideoService } from "../src/services/videoService"
 
 
