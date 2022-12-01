@@ -15,3 +15,7 @@
 <h3>Light mode:</h3>
 
 ![screenshot-white](https://user-images.githubusercontent.com/97999133/204936903-d821b472-112b-4320-903e-74faf6e77b49.png)
+
+<h3> Tela para adicionar vídeo, que chama a thumbnail video que está no link:
+
+![screenshot-add-video](https://user-images.githubusercontent.com/97999133/204937231-eb209390-b9d5-44e2-8de1-65df33298e15.png)
