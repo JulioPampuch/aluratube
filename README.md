@@ -6,5 +6,16 @@
 
 <p>Link onde o projeto está hospedado: https://aluratube-zeta-pearl.vercel.app/</p>
 
-![screenshot-white](https://user-images.githubusercontent.com/97999133/204926877-02919b87-1bbe-47ad-9c86-175bcd74208a.png)
-![screenshot-dark](https://user-images.githubusercontent.com/97999133/204926878-3c1f3d82-092c-4bea-a6be-1d89a3d9e3b1.png)
+
+<h3>Dark mode:</h3>
+
+
+![screenshot-dark](https://user-images.githubusercontent.com/97999133/204936899-451f85b3-d04f-411b-a502-f65aeacdef39.png)
+
+<h3>Light mode:</h3>
+
+![screenshot-white](https://user-images.githubusercontent.com/97999133/204936903-d821b472-112b-4320-903e-74faf6e77b49.png)
+
+<h3> Tela para adicionar vídeo, que puxa a thumbnail que está no link:
+
+![screenshot-add-video](https://user-images.githubusercontent.com/97999133/204937231-eb209390-b9d5-44e2-8de1-65df33298e15.png)
