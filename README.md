@@ -1,4 +1,4 @@
-<h1>Aluratube</h1>
+<h1 align="center">Aluratube</h1>
 
 <h2>Projeto desenvolvido no evento "Imersão React" da Alura, utilizamos React com Nextjs para criar um site inspirado no Youtube.</h2>
 
