@@ -7,9 +7,12 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <ol>
-  HTML
-  CSS
-  JavaScript
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React.js</li>
+  <li>Next.js</li>
+  <li>Styled-components</li>
 </l>
 
 <p>O projeto tem um sistema de dark/light mode, botão para adicionar vídeos e integração com o back-end "Supabase".</p>
