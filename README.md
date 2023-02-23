@@ -4,7 +4,7 @@
 <h2>Projeto desenvolvido no evento "Imersão React" da Alura, utilizamos React com Nextjs para criar um site inspirado no Youtube.</h2>
 
 <h2>🚀 Tecnologias</h2>
-<h3>Esse projeto foi desenvolvido com as seguintes tecnologias:</h3>
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
 
 <ul>
   <li>HTML</li>
