@@ -6,12 +6,11 @@
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+<ul>
 HTML
 CSS
 JavaScript
-NodeJS
-EJS
-Express
+</ul>
 
 <p>O projeto tem um sistema de dark/light mode, botão para adicionar vídeos e integração com o back-end "Supabase".</p>
 
