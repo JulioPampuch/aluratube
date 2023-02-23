@@ -1,9 +1,9 @@
 <h1 align="center">Aluratube</h1>
 
-💻 Projeto
+<h2>💻 Projeto</h2>
 <h2>Projeto desenvolvido no evento "Imersão React" da Alura, utilizamos React com Nextjs para criar um site inspirado no Youtube.</h2>
 
-🚀 Tecnologias
+<h2>🚀 Tecnologias</h2>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <ul>
