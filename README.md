@@ -15,8 +15,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <li>Styled-components</li>
 </ul>
 
-<p>O projeto tem um sistema de dark/light mode, botão para adicionar vídeos e integração com o back-end "Supabase".</p>
-
 <p>Link onde o projeto está hospedado: https://aluratube-zeta-pearl.vercel.app/</p>
 
 
